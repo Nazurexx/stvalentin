@@ -35,5 +35,5 @@ noBtn.addEventListener("mouseover", () => {
     noBtn.style.top = randomY + "px";
   }, delay);
 
-  delay += 150;
+  delay += 0.5;
 });
